@@ -1,0 +1,7 @@
+Hello! This repository contains various examples of machine learning problems implementing Feature Engineering & Hyperparameter tuning.
+
+
+All of the code is written in Tensorflow v1.15.0 
+
+
+In case you're using Tensorflow 2.0, please omit --> tf.logging.set_verbosity(tf.logging.INFO) because it's not supported.
